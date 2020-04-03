@@ -7,7 +7,7 @@ package testspaceinvaders;
 
 /**
  *
- * @author tonin
+ * @author christian.martone
  */
 public class TestSpaceInvaders {
 

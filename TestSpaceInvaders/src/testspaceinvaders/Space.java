@@ -10,12 +10,12 @@ import java.awt.Color;
 
 /**
  *
- * @author tonin
+ * @author christian.martone
  */
 public class Space extends Canvas{
 
     public Space() {
-        System.out.println(" <<<loading background>>> ");
+        System.out.println(" <<< Caricamento sfondo >>> ");
         setBackground(Color.black);
         setSize(900,500);
     }

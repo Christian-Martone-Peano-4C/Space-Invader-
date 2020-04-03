@@ -10,7 +10,7 @@ import javax.swing.WindowConstants;
 
 /**
  *
- * @author tonin
+ * @author christian.martone
  */
 public class SpaceInvaders extends JFrame{
 

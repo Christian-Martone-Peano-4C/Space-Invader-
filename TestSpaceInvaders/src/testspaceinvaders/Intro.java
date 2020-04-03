@@ -12,7 +12,7 @@ import java.awt.image.BufferStrategy;
 
 /**
  *
- * @author tonin
+ * @author christian.martone
  */
 public class Intro extends Space {
 
@@ -40,7 +40,7 @@ public class Intro extends Space {
         g.setFont(new Font("Bold", Font.CENTER_BASELINE, 50 + i));
         g.drawString("SPACE-INVADER", 100 + i, 100 + i);
         g.setFont(new Font("Bold", Font.PLAIN, 10 + i));
-        g.drawString("By Maiella Stefano 4C informatica G.Peano", 110 + i + i, 110 + i + i);
+        g.drawString("By Martone Christian 4C informatica G.Peano", 110 + i + i, 110 + i + i);
         g.dispose();
         strategy.show();
     }
